@@ -2,4 +2,5 @@ Just a tiny Javascript, CSS and HTML project to practice several javascript meth
 
 Nice retro game Doodle Jump!
 
-<img width="250" alt="image" src="https://github.com/LauraGutierrezSa/doodle-jump/assets/117345464/fc39d3b4-c495-41ee-af40-9bb1305f22d1">
+![image](https://github.com/LauraGutierrezSa/doodle-jump/assets/117345464/262e0d6a-1584-4cbf-a7eb-c55fea20ff99)
+
