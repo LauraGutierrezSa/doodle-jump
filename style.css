@@ -1,9 +1,10 @@
 .grid {
   width: 400px;
   height: 600px;
-  background-image: url("background.png");
+  background-image: url("background.webp");
   position: relative;
   font-size: 100px;
+  color: aquamarine;
   text-align: center;
 }
 
